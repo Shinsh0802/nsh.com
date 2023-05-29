@@ -2,7 +2,6 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/": "pages/index.js",
   "/hacker-news": "pages/hacker-news.js",
   "/api/hacker-news": "pages/api/hacker-news.js"
 }

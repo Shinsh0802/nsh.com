@@ -10,17 +10,5 @@
     "files": [
       "static/chunks/src_components_PageTransition_tsx.js"
     ]
-  },
-  "index.tsx -> ../components/Greeting": {
-    "id": "index.tsx -> ../components/Greeting",
-    "files": [
-      "static/chunks/src_components_Greeting_tsx.js"
-    ]
-  },
-  "index.tsx -> ../components/PageTransition": {
-    "id": "index.tsx -> ../components/PageTransition",
-    "files": [
-      "static/chunks/src_components_PageTransition_tsx.js"
-    ]
   }
 }

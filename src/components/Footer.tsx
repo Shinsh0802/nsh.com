@@ -62,7 +62,7 @@ export default function SmallWithSocial() {
         <Stack direction={'row'} spacing={2}>
           <SocialButton
             label={'Github'}
-            href={'https://github.com/Shinesh0802'}
+            href={'https://github.com/Shinsh0802'}
             icon={<FaGithub />}
           />
           <SocialButton
